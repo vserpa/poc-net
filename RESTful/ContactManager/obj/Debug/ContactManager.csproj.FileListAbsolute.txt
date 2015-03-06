@@ -69,3 +69,10 @@ C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\zh-Hant\System
 C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
 C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\obj\Debug\ContactManager.dll
 C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\obj\Debug\ContactManager.pdb
+C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\hibernate.cfg.xml
+C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\Iesi.Collections.dll
+C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\Infrastructure.dll
+C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\NHibernate.dll
+C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\Infrastructure.pdb
+C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\Iesi.Collections.xml
+C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\NHibernate.xml

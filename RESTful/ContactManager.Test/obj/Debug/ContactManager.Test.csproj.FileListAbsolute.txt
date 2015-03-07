@@ -22,3 +22,5 @@ C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager.Test\bin\Debug\Sys
 C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager.Test\bin\Debug\Newtonsoft.Json.xml
 C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager.Test\obj\Debug\ContactManager.Test.dll
 C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager.Test\obj\Debug\ContactManager.Test.pdb
+C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager.Test\bin\Debug\EntityFramework.dll
+C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager.Test\bin\Debug\EntityFramework.xml

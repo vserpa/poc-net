@@ -76,3 +76,5 @@ C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\NHibernate.dll
 C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\Infrastructure.pdb
 C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\Iesi.Collections.xml
 C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\NHibernate.xml
+C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\EntityFramework.SqlServer.dll
+C:\vinicius-serpa\repos\github\poc-net\RESTful\ContactManager\bin\EntityFramework.SqlServer.xml

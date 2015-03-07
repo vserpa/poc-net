@@ -8,3 +8,4 @@ In this POC we have:
 - XML Mapping
 - Repository Pattern
 - Unit Tests
+- Entity Framework 6 with Code First

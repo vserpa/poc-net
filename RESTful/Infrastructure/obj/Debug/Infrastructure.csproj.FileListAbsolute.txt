@@ -2,3 +2,4 @@ C:\vinicius-serpa\repos\github\poc-net\RESTful\Infrastructure\bin\Debug\Infrastr
 C:\vinicius-serpa\repos\github\poc-net\RESTful\Infrastructure\bin\Debug\Infrastructure.pdb
 C:\vinicius-serpa\repos\github\poc-net\RESTful\Infrastructure\obj\Debug\Infrastructure.dll
 C:\vinicius-serpa\repos\github\poc-net\RESTful\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\vinicius-serpa\repos\github\poc-net\RESTful\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
